@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This repo comes from this [article on Medium by John Stewart](https://dev.to/thejohnstew/faster-renders-with-react-memo-4hi7) with slight modifications to make it more apparent to the issues.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
